@@ -1,1 +1,1 @@
-# Radharc-CVI
+Radharc CVI is an assistive app for visually impaired patients,offering customizable keyboard colors, grid sizes, voice support,and multilingual support (Sinhala, Tamil, English, Irish). It includesshort songs, stories, and a chat feature for parents.
